@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-issue-tracker-deploy/static/css/main.cc9728f5.chunk.css",
-    "main.js": "/react-issue-tracker-deploy/static/js/main.1c5ac18f.chunk.js",
-    "main.js.map": "/react-issue-tracker-deploy/static/js/main.1c5ac18f.chunk.js.map",
+    "main.js": "/react-issue-tracker-deploy/static/js/main.b44de56e.chunk.js",
+    "main.js.map": "/react-issue-tracker-deploy/static/js/main.b44de56e.chunk.js.map",
     "runtime-main.js": "/react-issue-tracker-deploy/static/js/runtime-main.cdf035b9.js",
     "runtime-main.js.map": "/react-issue-tracker-deploy/static/js/runtime-main.cdf035b9.js.map",
     "static/js/2.f07dbd42.chunk.js": "/react-issue-tracker-deploy/static/js/2.f07dbd42.chunk.js",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.cdf035b9.js",
     "static/js/2.f07dbd42.chunk.js",
     "static/css/main.cc9728f5.chunk.css",
-    "static/js/main.1c5ac18f.chunk.js"
+    "static/js/main.b44de56e.chunk.js"
   ]
 }
