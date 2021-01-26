@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react-issue-tracker-deploy/static/css/main.75ef3ca9.chunk.css",
+    "main.js": "/react-issue-tracker-deploy/static/js/main.1c5ac18f.chunk.js",
+    "main.js.map": "/react-issue-tracker-deploy/static/js/main.1c5ac18f.chunk.js.map",
+    "runtime-main.js": "/react-issue-tracker-deploy/static/js/runtime-main.cdf035b9.js",
+    "runtime-main.js.map": "/react-issue-tracker-deploy/static/js/runtime-main.cdf035b9.js.map",
+    "static/js/2.f07dbd42.chunk.js": "/react-issue-tracker-deploy/static/js/2.f07dbd42.chunk.js",
+    "static/js/2.f07dbd42.chunk.js.map": "/react-issue-tracker-deploy/static/js/2.f07dbd42.chunk.js.map",
+    "index.html": "/react-issue-tracker-deploy/index.html",
+    "static/css/main.75ef3ca9.chunk.css.map": "/react-issue-tracker-deploy/static/css/main.75ef3ca9.chunk.css.map",
+    "static/js/2.f07dbd42.chunk.js.LICENSE.txt": "/react-issue-tracker-deploy/static/js/2.f07dbd42.chunk.js.LICENSE.txt",
+    "static/media/ascending.ede41112.svg": "/react-issue-tracker-deploy/static/media/ascending.ede41112.svg",
+    "static/media/college.c9ecb838.png": "/react-issue-tracker-deploy/static/media/college.c9ecb838.png",
+    "static/media/descending.7b13d895.svg": "/react-issue-tracker-deploy/static/media/descending.7b13d895.svg",
+    "static/media/developer.ca1c3df5.svg": "/react-issue-tracker-deploy/static/media/developer.ca1c3df5.svg",
+    "static/media/exclamation.c2e1885f.svg": "/react-issue-tracker-deploy/static/media/exclamation.c2e1885f.svg",
+    "static/media/home.b5626aba.svg": "/react-issue-tracker-deploy/static/media/home.b5626aba.svg",
+    "static/media/ipod.977bb46b.png": "/react-issue-tracker-deploy/static/media/ipod.977bb46b.png",
+    "static/media/issue.38821617.png": "/react-issue-tracker-deploy/static/media/issue.38821617.png",
+    "static/media/link.c1b1d5f5.svg": "/react-issue-tracker-deploy/static/media/link.c1b1d5f5.svg",
+    "static/media/music.33b88e5e.png": "/react-issue-tracker-deploy/static/media/music.33b88e5e.png",
+    "static/media/project.64f5ee94.svg": "/react-issue-tracker-deploy/static/media/project.64f5ee94.svg",
+    "static/media/react.80045de7.png": "/react-issue-tracker-deploy/static/media/react.80045de7.png",
+    "static/media/superhero.da30944b.png": "/react-issue-tracker-deploy/static/media/superhero.da30944b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdf035b9.js",
+    "static/js/2.f07dbd42.chunk.js",
+    "static/css/main.75ef3ca9.chunk.css",
+    "static/js/main.1c5ac18f.chunk.js"
+  ]
+}
