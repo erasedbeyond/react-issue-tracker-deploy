@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/react-issue-tracker-deploy/static/css/main.cc9728f5.chunk.css",
-    "main.js": "/react-issue-tracker-deploy/static/js/main.b44de56e.chunk.js",
-    "main.js.map": "/react-issue-tracker-deploy/static/js/main.b44de56e.chunk.js.map",
+    "main.css": "/react-issue-tracker-deploy/static/css/main.b8856f4d.chunk.css",
+    "main.js": "/react-issue-tracker-deploy/static/js/main.1e31b2a8.chunk.js",
+    "main.js.map": "/react-issue-tracker-deploy/static/js/main.1e31b2a8.chunk.js.map",
     "runtime-main.js": "/react-issue-tracker-deploy/static/js/runtime-main.cdf035b9.js",
     "runtime-main.js.map": "/react-issue-tracker-deploy/static/js/runtime-main.cdf035b9.js.map",
     "static/js/2.f07dbd42.chunk.js": "/react-issue-tracker-deploy/static/js/2.f07dbd42.chunk.js",
     "static/js/2.f07dbd42.chunk.js.map": "/react-issue-tracker-deploy/static/js/2.f07dbd42.chunk.js.map",
     "index.html": "/react-issue-tracker-deploy/index.html",
-    "static/css/main.cc9728f5.chunk.css.map": "/react-issue-tracker-deploy/static/css/main.cc9728f5.chunk.css.map",
+    "static/css/main.b8856f4d.chunk.css.map": "/react-issue-tracker-deploy/static/css/main.b8856f4d.chunk.css.map",
     "static/js/2.f07dbd42.chunk.js.LICENSE.txt": "/react-issue-tracker-deploy/static/js/2.f07dbd42.chunk.js.LICENSE.txt",
+    "static/media/add-documents.89c7a0d2.svg": "/react-issue-tracker-deploy/static/media/add-documents.89c7a0d2.svg",
     "static/media/ascending.ede41112.svg": "/react-issue-tracker-deploy/static/media/ascending.ede41112.svg",
     "static/media/college.c9ecb838.png": "/react-issue-tracker-deploy/static/media/college.c9ecb838.png",
     "static/media/descending.7b13d895.svg": "/react-issue-tracker-deploy/static/media/descending.7b13d895.svg",
     "static/media/developer.ca1c3df5.svg": "/react-issue-tracker-deploy/static/media/developer.ca1c3df5.svg",
     "static/media/exclamation.c2e1885f.svg": "/react-issue-tracker-deploy/static/media/exclamation.c2e1885f.svg",
+    "static/media/filter.0b02b03b.svg": "/react-issue-tracker-deploy/static/media/filter.0b02b03b.svg",
     "static/media/home.b5626aba.svg": "/react-issue-tracker-deploy/static/media/home.b5626aba.svg",
     "static/media/ipod.977bb46b.png": "/react-issue-tracker-deploy/static/media/ipod.977bb46b.png",
     "static/media/issue.38821617.png": "/react-issue-tracker-deploy/static/media/issue.38821617.png",
@@ -27,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.cdf035b9.js",
     "static/js/2.f07dbd42.chunk.js",
-    "static/css/main.cc9728f5.chunk.css",
-    "static/js/main.b44de56e.chunk.js"
+    "static/css/main.b8856f4d.chunk.css",
+    "static/js/main.1e31b2a8.chunk.js"
   ]
 }
